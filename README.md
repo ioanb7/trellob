@@ -19,7 +19,7 @@ Trello premium background-image, made free.
 You can use the same code to make little adjustments to another website. Just change the matches_links in `manifest.json` and the code in `script.js window.onload`
 
 ##Useful links:
-*https://developer.chrome.com/extensions/getstarted
-*https://developer.chrome.com/extensions/content_scripts
+* https://developer.chrome.com/extensions/getstarted
+* https://developer.chrome.com/extensions/content_scripts
 
 
