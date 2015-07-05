@@ -1,13 +1,13 @@
-# trellob
+# trellob7
 Trello premium background-image, made free.
 
-`It is not available in the market, so you will have to find the steps below`
+It is not available in the market, so you will have to [follow the steps below](#how-to-install).
 
 ##Preview:
 ![Preview](http://i.imgur.com/1PUwyX1.jpg)
 
 ##How to install:
-* Download the zip for this repository
+* [Download the zip for this repository](https://github.com/ioanb7/trellob7/archive/master.zip)
 * Extract the folder trellob to your desktop
 * Open up `Google chrome > settings > Extensions` and check "Developer mode"
 * Drag the folder trellob in there
