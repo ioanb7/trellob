@@ -12,7 +12,7 @@ It is not available in the market, so you will have to [follow the steps below](
 * Open up `Google chrome > settings > Extensions` and check "Developer mode"
 * Drag the folder trellob in there
 * `Optional`: Go back in the folder trellob, open up `script.js` and modify the first few variables to your personal desires. Then, go into extensions and press the `Reload` link next to the extension
-* `Optional`: Fork this repo and make improvements (e.g. to cache the image from the webs locally)
+* `Optional`: Fork this repo and enjoy
 
 #Developers:
 ##Other uses:
