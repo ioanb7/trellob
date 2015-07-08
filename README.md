@@ -1,7 +1,7 @@
 # trellob7
 Trello premium background-image, made free.
 
-It is not available in the market, so you will have to [follow the steps below](#how-to-install).
+It is not available in the market, so you will have to [watch the tutorial](https://youtu.be/elf5_I6jVZ8) or [follow the steps below](#how-to-install).
 
 ##Preview:
 ![Preview](http://i.imgur.com/1PUwyX1.jpg)
