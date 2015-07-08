@@ -19,8 +19,9 @@
     {
       "matches": ["*://trello.com/*"],
       "css": ["style.css"],
-      "js": ["common.js", "script.js"],
+      "js": ["main.js"],
       "run_at":"document_start"
     }
-  ]
+  ],
+  "web_accessible_resources": ["common.js", "script.js"]
 }
