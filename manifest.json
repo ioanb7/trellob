@@ -1,8 +1,7 @@
 {
   "manifest_version": 2,
-
-  "name": "Trellob premium background",
-  "description": "This extension shows a premium and custom background for free users",
+  "name": "trellob7",
+  "description": "Trellob premium background",
   "version": "1",
 
   "browser_action": {
